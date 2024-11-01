@@ -4,7 +4,7 @@
 /**
  * 
  */
-module Assginment4 {
-	requires junit;
+module Lab3 {
 	requires org.junit.jupiter.api;
+	requires junit;
 }
